@@ -1,0 +1,6 @@
+{
+  "name": "JLPT Daily 日语学习助手",
+  "description": "每日推送JLPT单词、语法及练习题，助力日语能力考。支持个性化定制学习计划和收藏复习功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI内容生成", "个性化学习计划", "错题收藏", "JLPT全级别覆盖"]
+}
